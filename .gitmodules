@@ -1,0 +1,3 @@
+[submodule "mixtli"]
+	path = mixtli
+	url = git@github.com:Kutsari-GDL/miztli-rv32.git
